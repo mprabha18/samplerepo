@@ -18,6 +18,7 @@
 
 	<properties>
 		<java.version>11</java.version>
+		<jar>${project.build.directory}/${project.build.finalName}.jar</jar>
 	</properties>
 
 	<dependencies>
